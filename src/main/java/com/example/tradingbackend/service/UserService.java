@@ -82,6 +82,7 @@ public class UserService {
         response.setFullName(user.getFullName());
         response.setPhoneNumber(user.getPhoneNumber());
         response.setActive(user.getActive());
+        response.setBalance(user.getBalance());
         response.setCreatedAt(user.getCreatedAt());
         response.setUpdatedAt(user.getUpdatedAt());
         return response;

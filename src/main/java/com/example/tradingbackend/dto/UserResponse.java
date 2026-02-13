@@ -18,5 +18,6 @@ public class UserResponse {
     private String phoneNumber;
     private Boolean active;
     private LocalDateTime createdAt;
+    private java.math.BigDecimal balance;
     private LocalDateTime updatedAt;
 }
