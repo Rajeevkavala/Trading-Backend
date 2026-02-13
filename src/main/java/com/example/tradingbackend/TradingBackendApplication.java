@@ -17,7 +17,7 @@ public class TradingBackendApplication {
 		System.out.println("API Docs: http://localhost:8080/v3/api-docs");
 		System.out.println("Database: MySQL (trading_db)");
 		System.out.println("========================================\n");
-
+			// Hi raa
 	}
 
 }
